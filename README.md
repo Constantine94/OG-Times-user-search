@@ -1,4 +1,6 @@
 # OG-Times-user-search
+![1231231](https://user-images.githubusercontent.com/60316326/92620532-468d7e80-f2b2-11ea-9f2f-8aef8535327b.png)
+
 OG-Times user search
 
 # Acest tool cu interfata GUI iti permite sa identifici userii din panel, cu cei dintr-o lista aleasa de tine ( baza de date )
